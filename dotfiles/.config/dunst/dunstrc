@@ -1,0 +1,60 @@
+[global]
+    monitor = 0
+    follow = mouse
+    geometry = "300x50-15+49"
+    indicate_hidden = yes
+    shrink = no
+    transparency = 15
+    notification_height = 0
+    separator_height = 2
+    padding = 8
+    horizontal_padding = 8
+    text_icon_padding = 0
+    frame_width = 0
+    frame_color = "#282c34"
+    separator_color = frame
+    sort = yes
+    idle_threshold = 120
+    font = Noto Sans 10
+    line_height = 0
+    markup = full
+    format = "<b>%s</b>\n%b"
+    alignment = left
+    vertical_alignment = center
+    show_age_threshold = 60
+    ellipsize = middle
+    ignore_newline = no
+    stack_duplicates = true
+    hide_duplicate_count = false
+    show_indicators = yes
+    icon_position = left
+    max_icon_size = 32
+    icon_path = /usr/share/icons/Papirus-Dark/16x16/status:/usr/share/icons/Papirus-Dark/32x32/apps
+    sticky_history = yes
+    history_length = 20
+    dmenu = /usr/bin/dmenu -p dunst:
+    browser = firefox
+    always_run_script = true
+    title = Dunst
+    class = Dunst
+    ignore_dbusclose = false
+    force_xwayland = false
+    corner_radius = 8
+
+[experimental]
+    per_monitor_dpi = false
+
+[urgency_low]
+    background = "#1e222a"
+    foreground = "#a3b1d4"
+    timeout = 10
+
+[urgency_normal]
+    background = "#1e222a"
+    foreground = "#e2b86b"
+    timeout = 15
+
+[urgency_critical]
+    background = "#1e222a"
+    foreground = "#ff6c6b"
+    timeout = 0
