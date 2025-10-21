@@ -1,0 +1,29 @@
+{
+    "checksum": "421a5d61e40cf80b193ae052a387779a",
+    "wallpaper": "/home/sleepnomore/.config/hypr/wallpapers/Honkadaloonga.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#160916",
+        "foreground": "#c4c1c4",
+        "cursor": "#c4c1c4"
+    },
+    "colors": {
+        "color0": "#160916",
+        "color1": "#08B54F",
+        "color2": "#09A369",
+        "color3": "#0BE387",
+        "color4": "#0DAB6F",
+        "color5": "#0E7F6A",
+        "color6": "#1AB27F",
+        "color7": "#c4c1c4",
+        "color8": "#6c596c",
+        "color9": "#08B54F",
+        "color10": "#09A369",
+        "color11": "#0BE387",
+        "color12": "#0DAB6F",
+        "color13": "#0E7F6A",
+        "color14": "#1AB27F",
+        "color15": "#c4c1c4"
+    }
+}
