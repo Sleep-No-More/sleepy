@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Wallpaper Selector
+Comment=Change wallpaper using swww
+Exec=wallpaper-selector
+Icon=preferences-desktop-wallpaper
+Categories=System;Utility;
+Terminal=false
+NoDisplay=false
