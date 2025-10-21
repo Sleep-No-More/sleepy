@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GTK Settings
+Comment=Configure GTK appearance and behavior
+Exec=dconf-editor
+Icon=preferences-system
+Categories=System;Settings;
+Terminal=false
+NoDisplay=false
