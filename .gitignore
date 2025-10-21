@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+
+# Caches and logs
+*.log
+*.cache
+__pycache__/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+.env
