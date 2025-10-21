@@ -13,7 +13,7 @@ My Hyprland window manager configuration and dotfiles for CachyOS.
 
 ## Directory Structure
 
-```
+```txt
 sleepy/
 └── dotfiles/
     ├── .config/
